@@ -7,7 +7,7 @@ android:layout_height="fill_parent">
 
 <TextView
     android:id="@+id/list_name"
-    style="@style/ListText" >
+    style="@style/ListText"  >
 </TextView>
 
 </LinearLayout>

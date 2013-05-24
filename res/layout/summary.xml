@@ -15,9 +15,15 @@
         android:layout_width="fill_parent"
         android:layout_height="wrap_content" />
 
-    <TextView
+    <!-- <TextView
         style="@style/ScoreText"
         android:id="@+id/scoreText"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" /> -->
+    
+     <TextView
+        style="@style/ScoreText"
+        android:id="@+id/kingdomText"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content" />
     

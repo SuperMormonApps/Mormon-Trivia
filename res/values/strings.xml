@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     
-    <string name="app_name">Space Trivia</string>
+    <string name="app_name">Mormon Trivia</string>
     <string name="categories">Trivia Categories</string>
     <string name="scores">Trivia High Scores</string>
     
